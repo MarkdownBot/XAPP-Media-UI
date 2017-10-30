@@ -49,7 +49,7 @@ The expectation is when one of the apps in the list is selected, the details for
 
 ## Additional Tasks
 
-- [ ] Display an empty list state
+- [x] Display an empty list state
 - [x] Display feedback to the user that the list is loading
 - [x] Make everything look great
 
