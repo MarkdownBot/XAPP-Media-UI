@@ -10,30 +10,19 @@ This repository is a highly modified version of [react-redux-typescript-boilerpl
 - Node.js 8
 - NPM
 
-## Note About Forking
-
-Please do not fork this repository, instead perform a fresh clone.  Forks will be easy for other people (candidates) to find, of course we expect you to use outside resources however an exact solution will provide people with too much of a head start.   
-
 ## Project Setup
+```bash
+# From your command line, clone the project:
+git clone https://github.com/thehappydinoa/XAPP-Media-UI
 
-From your command line, clone the project:
-```
-$ git clone https://github.com/thehappydinoa/XAPP-Media-UI
-```
+# Navigate to the root:
+cd XAPP-Media-UI
 
-Navigate to the root:
-```
-$ cd XAPP-Media-UI
-```
+# Install the dependencies:
+npm install
 
-Install the dependencies:
-```
-$ npm install
-```
-
-Start the project:
-```
-$ npm start
+# Start the project:
+npm start
 ```
 
 Edit away!  Hot module replacement is enabled so any edits you make will automatically reload the browser.
