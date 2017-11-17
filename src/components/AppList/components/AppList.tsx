@@ -29,7 +29,7 @@ export class AppList extends React.PureComponent<AppListProps, AppListState> {
         console.log(`App ${app.name} selected`);
         document.getElementById('appTitle').innerHTML = app.name;
         document.getElementById('appDescription').innerHTML = app.description;
-        document.getElementById('appImage').src = app.smallIcon;
+        document.getElementById('appImage').setAttribute( 'src', app.smallIcon);
     }
 
     render() {
