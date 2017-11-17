@@ -58,4 +58,4 @@ We will look at the following when reviewing your work:
 - [x] Does the code build and run
 - [x] Is the primary task complete
 - [x] Is the code clean and easy to understand
-- [ ] Is there a clear commit history
+- [x] Is there a clear commit history
