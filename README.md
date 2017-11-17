@@ -7,9 +7,8 @@ This repository is a highly modified version of [react-redux-typescript-boilerpl
 ## Prerequisites
 
 - Git
-- Node.js
+- Node.js 8
 - NPM
-- We strongly recommend [VSCode](https://code.visualstudio.com/download) as your IDE for TypeScript
 
 ## Note About Forking
 
@@ -19,7 +18,7 @@ Please do not fork this repository, instead perform a fresh clone.  Forks will b
 
 From your command line, clone the project:
 ```
-$ git clone https://github.com/thehappydinoa/XAPP-Media-UI.git
+$ git clone https://github.com/thehappydinoa/XAPP-Media-UI
 ```
 
 Navigate to the root:
