@@ -6,11 +6,12 @@ This repository is a highly modified version of [react-redux-typescript-boilerpl
 
 ## Prerequisites
 
-- Git
-- Node.js 8
-- NPM
+-   Git
+-   Node.js 8
+-   NPM
 
 ## Project Setup
+
 ```bash
 # From your command line, clone the project:
 git clone https://github.com/thehappydinoa/XAPP-Media-UI
@@ -37,15 +38,15 @@ The expectation is when one of the apps in the list is selected, the details for
 
 ## Additional Tasks
 
-- [x] Display an empty list state
-- [x] Display feedback to the user that the list is loading
-- [x] Make everything look great
+-   [x] Display an empty list state
+-   [x] Display feedback to the user that the list is loading
+-   [x] Make everything look great
 
 ## Even More Additional Tasks
 
-- [ ] Add a unit testing framework and a unit test
-- [x] Hook up an action for when the getApps() call fails and display the error message to the user
-- [ ] Hook up a route (for example `/{app-slug}`) that just displays the application detail view  
+-   [ ] Add a unit testing framework and a unit test
+-   [x] Hook up an action for when the getApps() call fails and display the error message to the user
+-   [ ] Hook up a route (for example `/{app-slug}`) that just displays the application detail view  
 
 ## Submission Instructions
 
@@ -55,7 +56,7 @@ Please zip the contents of the entire directory and make the zip file publically
 
 We will look at the following when reviewing your work:
 
-- [x] Does the code build and run
-- [x] Is the primary task complete
-- [x] Is the code clean and easy to understand
-- [x] Is there a clear commit history
+-   [x] Does the code build and run
+-   [x] Is the primary task complete
+-   [x] Is the code clean and easy to understand
+-   [x] Is there a clear commit history
